@@ -1,0 +1,8 @@
+¿Permite ingeniería inversa?: PlantUML no permite directamente la
+ingeniería inversa desde el código Python. Sin embargo,
+se pueden generar diagramas UML de manera manual a partir de clases y relaciones,
+lo que permite una buena visualización.
+
+¿Genera código?: PlantUML no genera código Python directamente desde el diagrama, pero puedes usar las relaciones visualizadas en el UML para crear manualmente el código, lo que fomenta un desarrollo más claro y estructurado.
+
+¿Se integra bien con Python?: PlantUML es una herramienta muy flexible, pero su integración con Python es indirecta. A través de la representación visual, puedes diseñar la arquitectura del sistema y luego implementarlo en Python manualmente. Aunque no hay generación automática de código en Python, la herramienta es muy útil para el diseño.
